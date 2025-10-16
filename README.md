@@ -19,6 +19,13 @@ This project includes custom fonts, images, and a ringtone, packaged to work as 
 ## How to Use
 ![Main Menu](assets/mainmenu.png)
 ![Options Menu: Left Side for Focus Session, Middle for Short Break, Right Side for Long Break](assets/optionsmenu.png)
+- Button on the Left to Open the Options Menu
+- Button on the Middle to Start/Stop Timer
+- Button on the Right to Skip the Session
+**In the Options Menu**
+- Left Side Option for the Focus Session
+- Middle Option for the Short Break
+- Right Side Option for the Long Break
 
 ---
 
