@@ -1,3 +1,4 @@
+![](assets/logo.png)
 # Pomodoro Timer
 
 A simple Pomodoro timer built with Python, using **CustomTkinter** for the GUI and other libraries like **pygame** for the audio.  
