@@ -12,7 +12,13 @@ This project includes custom fonts, images, and a ringtone, packaged to work as 
 - Start, Pause, and Skip Pomodoro sessions  
 - Custom button icons and fonts  
 - Ringtone notification when a session ends  
-- Clean GUI using CustomTkinter  
+- Clean GUI using CustomTkinter
+
+---
+
+## How to Use
+![Main Menu](assets/mainmenu.png)
+![Options Menu: Left Side for Focus Session, Middle for Short Break, Right Side for Long Break](assets/optionsmenu.png)
 
 ---
 
