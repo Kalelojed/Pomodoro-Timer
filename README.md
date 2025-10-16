@@ -10,7 +10,7 @@ This project includes custom fonts, images, and a ringtone, packaged to work as 
 ## Design Inspiration
 I've been inspired by the design from the "Pomo" app for Desktop and Mobile
 
-![Inspiration]('assets/inspo.png')
+![Inspiration](assets/inspo.png)
 
 ---
 
